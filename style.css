@@ -1,0 +1,63 @@
+.container {
+    display: flex;
+    height: 610px;
+    width: 610px;
+    background-color: beige;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    border: 2px solid beige;
+}
+
+.q {
+    display: flex;
+    height: 200px;
+    width: 200px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-around;
+}
+
+.s {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+
+.a {
+    background-color: red;
+}
+
+.b {
+    background-color: blue;
+}
+
+.c {
+    background-color: green;
+}
+
+.d {
+    background-color: yellow;
+}
+
+.e {
+    background-color: black;
+}
+
+.f {
+    background-color: orange;
+}
+
+.g {
+    background-color: darkmagenta;
+}
+
+.h {
+    background-color: grey;
+}
+
+.i {
+    background-color: pink;
+}
